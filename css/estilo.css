@@ -1,23 +1,18 @@
-
 .contenedor1{
     background-color: aqua;
     position: relative;
-    
-
     display: inline-block;
 }
 .contenedor2{
     background-color: rgb(252, 41, 139);
     position:relative;
     top: 5px;
-   
     display: inline-block;
 }
 .contenedor3{
     background-color: rgb(255, 0, 0);
     position: relative;
     margin-top: 5px;
-
     display: inline-block;
 }
 
